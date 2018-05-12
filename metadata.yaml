@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '42248'
     url: http://www.gutenberg.org/2009/agents/42248
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43484#Beauty-and-the-BeastAn-Essay-in-Evolutionary-Aesthetic
 gutenberg_issued: '2013-08-16'
 gutenberg_type: Text
 identifiers:
